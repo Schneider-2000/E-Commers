@@ -647,6 +647,11 @@ footer a:hover {
     margin-right: 50px;
 }
 
+#prodetails .single-pro-image img {
+    margin-right: 50px;
+    border-radius: 14px;
+}
+
 .small-img-group {
     display: flex;
     justify-content: space-between;
